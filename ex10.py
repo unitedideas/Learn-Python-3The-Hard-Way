@@ -23,6 +23,3 @@ print(fat_cat)
 #my code
 print("this{0}that{0}those".format("\n"))
 
-
-
-
